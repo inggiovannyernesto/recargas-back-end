@@ -35,8 +35,10 @@ Alternativamente, puede usar el [Spring Boot Maven plugin](https://docs.spring.i
 ## Diagrama Entidad Relación MER
 ![image](https://user-images.githubusercontent.com/115900546/196008594-fa47f17e-e57c-446b-800e-c3fee14f8590.png)
 
+## Diagrama Clases
+![diagrama de clases](https://user-images.githubusercontent.com/115900546/196009849-37a5dd98-510f-43db-b5cc-80b2b759609a.png)
 
 
 ## Copyright
 
-<div>Giovanni Enersto Rodriguez Diaz</div>
+<div>Giovanni Ernesto Rodriguez Diaz</div>
